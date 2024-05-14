@@ -10,7 +10,7 @@ This is a long document, containing not just information about this project, but
 
 Eink is a registered trademark and brand of E Ink Corporation. All the contents provided in this repo are based on publicly available information online and original research. They are not endorsed by Eink in anyway and they may contain errors and/ or inaccurarcies. 
 
-If you are interested in Eink or any other display technogies, I have a Discord server for that. Feel free to join: https://discord.gg/rtT7euSHQS . (This Discord server is also not endorsed by Eink or any other company. It's not a customer support server.)
+If you are interested in Eink or any other display technologies, I have a Discord server for that. Feel free to join: https://discord.gg/rtT7euSHQS . (This Discord server is also not endorsed by Eink or any other company. It's not a customer support server.)
 
 ## Table of Contents 
 
